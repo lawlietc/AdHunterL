@@ -36,3 +36,4 @@ m.huxiu.com##.js-open-app.bgw.guide-box
 m.huxiu.com###qr_code_pc
 36kr.com##.linkedme-inner
 36kr.com##.app-containerJ_appDownloadWrapper
+wapp.baidu.com##.zan_reply.j_zan_reply
