@@ -15,5 +15,7 @@ www.g-cores.com###_pop_div
 wapp.baidu.com##.appPromote.\38 199
 wapp.baidu.com###j_light_see_index
 wapp.baidu.com##.showBar.fixed_bar
+tieba.baidu.com##.appPromote.\34 530
+tieba.baidu.com###more_content
 wapp.baidu.com##.appPromote.\34 530
-wapp.baidu.com###more_content
+tieba.baidu.com##.appPromote.\38 199
