@@ -12,3 +12,8 @@ www.g-cores.com##.story_share
 www.g-cores.com###j_shareToWXBtn
 www.g-cores.com###j_g_appBtmTip
 www.g-cores.com###_pop_div
+tieba.baidu.com##.appPromote.\38 199
+tieba.baidu.com###j_light_see_index
+tieba.baidu.com##.showBar.fixed_bar
+wapp.baidu.com##.appPromote.\34 530
+wapp.baidu.com###more_content
