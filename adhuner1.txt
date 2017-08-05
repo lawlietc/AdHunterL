@@ -26,3 +26,13 @@ m.qdaily.com##.com-share
 m.qdaily.com##.callup-button
 m.qdaily.com/mobile/homes.html##.com-header clearfix
 m.qdaily.com##.com-header clearfix
+sspai.com/##.open-in-app-button
+m.dxy.com##.app-download-fixed
+m.dxy.com##.app-download-bottom
+sspai.com##.is-shown.open-in-app-button
+3g.163.com##.feed_back
+www.ifanr.com##.article-sns-tool
+m.huxiu.com##.js-open-app.bgw.guide-box
+m.huxiu.com###qr_code_pc
+36kr.com##.linkedme-inner
+36kr.com##.app-containerJ_appDownloadWrapper
