@@ -23,5 +23,7 @@ tieba.baidu.com##.appPromote.\*
 wapp.baidu.com##.appPromote.\*
 m.qdaily.com##.com-header-brief clearfix
 m.qdaily.com###com-header clearfix
+m.qdaily.com##com-header clearfix
+m.qdaily.com##.com-header clearfix
 m.qdaily.com##.com-share
 m.qdaily.com##.callup-button
