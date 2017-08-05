@@ -19,3 +19,9 @@ tieba.baidu.com##.appPromote.\34 530
 tieba.baidu.com###more_content
 wapp.baidu.com##.appPromote.\34 530
 tieba.baidu.com##.appPromote.\38 199
+tieba.baidu.com##.appPromote.\*
+wapp.baidu.com##.appPromote.\*
+m.qdaily.com##.com-header-brief clearfix
+m.qdaily.com##.com-header clearfix
+m.qdaily.com##.com-share
+m.qdaily.com##.callup-button
