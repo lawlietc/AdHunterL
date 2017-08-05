@@ -25,3 +25,4 @@ m.qdaily.com##.com-header-brief clearfix
 m.qdaily.com##.com-share
 m.qdaily.com##.callup-button
 m.qdaily.com/mobile/homes.html##.com-header clearfix
+m.qdaily.com##.com-header clearfix
