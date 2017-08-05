@@ -1,0 +1,14 @@
+! Version: 201708051030
+! Title: lawlietchanclear
+! Author: lawlietchan
+! Last modified: 2017/08/05 22:30 +0800
+! Expires: 5天
+! Email: lawlietchan@163.com
+! Others: miaomiaomiao
+!--以下是规则内容开始
+www.g-cores.com##.footer_info
+www.g-cores.com##.footer_contact
+www.g-cores.com##.story_share
+www.g-cores.com###j_shareToWXBtn
+www.g-cores.com###j_g_appBtmTip
+www.g-cores.com###_pop_div
