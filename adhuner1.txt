@@ -15,16 +15,18 @@ www.g-cores.com###_pop_div
 wapp.baidu.com##.appPromote.\38 199
 wapp.baidu.com###j_light_see_index
 wapp.baidu.com##.showBar.fixed_bar
+wapp.baidu.com##.appPromote.\34 530
+wapp.baidu.com###more_content
+wapp.baidu.com##.appPromote.\*
+tieba.baidu.com##.appPromote.\38 199
+tieba.baidu.com###j_light_see_index
+tieba.baidu.com##.showBar.fixed_bar
 tieba.baidu.com##.appPromote.\34 530
 tieba.baidu.com###more_content
-wapp.baidu.com##.appPromote.\34 530
-tieba.baidu.com##.appPromote.\38 199
 tieba.baidu.com##.appPromote.\*
-wapp.baidu.com##.appPromote.\*
 m.qdaily.com##.com-header-brief clearfix
 m.qdaily.com##.com-share
 m.qdaily.com##.callup-button
-m.qdaily.com/mobile/homes.html##.com-header clearfix
 m.qdaily.com##.com-header clearfix
 sspai.com/##.open-in-app-button
 m.dxy.com##.app-download-fixed
