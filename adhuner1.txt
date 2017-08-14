@@ -24,6 +24,8 @@ tieba.baidu.com##.showBar.fixed_bar
 tieba.baidu.com##.appPromote.\34 530
 tieba.baidu.com###more_content
 tieba.baidu.com##.appPromote.\*
+tieba.baidu.com##.appPromote.\37 194
+wapp.baidu.com##.appPromote.\37 194
 m.qdaily.com##.com-header-brief clearfix
 m.qdaily.com##.com-share
 m.qdaily.com##.callup-button
@@ -39,3 +41,10 @@ m.huxiu.com###qr_code_pc
 36kr.com##.linkedme-inner
 36kr.com##.app-containerJ_appDownloadWrapper
 wapp.baidu.com##.zan_reply.j_zan_reply
+tieba.baidu.com##.zan_reply.j_zan_reply
+tieba.baidu.com##.more_btn_package
+wapp.baidu.com##.more_btn_package
+wapp.baidu.com##.login-ad-app-word-header
+tieba.baidu.com##.login-ad-app-word-header
+tieba.baidu.com##.iSlider-wrapper-container-hot-thread
+wapp.baidu.com##.iSlider-wrapper-container-hot-thread
