@@ -12,24 +12,12 @@ www.g-cores.com##.story_share
 www.g-cores.com###j_shareToWXBtn
 www.g-cores.com###j_g_appBtmTip
 www.g-cores.com###_pop_div
-wapp.baidu.com##.appPromote.\38 199
-wapp.baidu.com###j_light_see_index
-wapp.baidu.com##.showBar.fixed_bar
-wapp.baidu.com##.appPromote.\34 530
-wapp.baidu.com###more_content
-wapp.baidu.com##.appPromote.\*
-tieba.baidu.com##.appPromote.\38 199
-tieba.baidu.com###j_light_see_index
-tieba.baidu.com##.showBar.fixed_bar
-tieba.baidu.com##.appPromote.\34 530
-tieba.baidu.com###more_content
-tieba.baidu.com##.appPromote.\*
-tieba.baidu.com##.appPromote.\37 194
-wapp.baidu.com##.appPromote.\37 194
 m.qdaily.com##.com-header-brief clearfix
 m.qdaily.com##.com-share
 m.qdaily.com##.callup-button
 m.qdaily.com##.com-header clearfix
+m.qdaily.com/mobile/mobs/*.html##.com-header clearfix
+m.qdaily.com/mobile/mobs/*.html##.com-header-brief clearfix
 sspai.com/##.open-in-app-button
 m.dxy.com##.app-download-fixed
 m.dxy.com##.app-download-bottom
@@ -48,3 +36,21 @@ wapp.baidu.com##.login-ad-app-word-header
 tieba.baidu.com##.login-ad-app-word-header
 tieba.baidu.com##.iSlider-wrapper-container-hot-thread
 wapp.baidu.com##.iSlider-wrapper-container-hot-thread
+wapp.baidu.com###dia_mask_11af
+wapp.baidu.com###dia_wrapper_11af
+tieba.baidu.com###dia_mask_11af
+tieba.baidu.com###dia_wrapper_11af
+wapp.baidu.com##.appPromote.\38 199
+wapp.baidu.com###j_light_see_index
+wapp.baidu.com##.showBar.fixed_bar
+wapp.baidu.com##.appPromote.\34 530
+wapp.baidu.com###more_content
+wapp.baidu.com##.appPromote.\*
+tieba.baidu.com##.appPromote.\38 199
+tieba.baidu.com###j_light_see_index
+tieba.baidu.com##.showBar.fixed_bar
+tieba.baidu.com##.appPromote.\34 530
+tieba.baidu.com###more_content
+tieba.baidu.com##.appPromote.\*
+tieba.baidu.com##.appPromote.\37 194
+wapp.baidu.com##.appPromote.\37 194
