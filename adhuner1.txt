@@ -58,3 +58,4 @@ wapp.baidu.com##.appPromote.\37 194
 m.weibo.cn##.appTips
 bbs.nga.cn##body > div:nth-of-type(3)
 m.weibo.cn##.m-container-max.tips
+m.dxy.com##.mode-detail.m-bottom-comment-box
